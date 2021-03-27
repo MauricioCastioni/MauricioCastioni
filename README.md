@@ -1,0 +1,3 @@
+- 👋 Olá, sou @MauricioCastioni
+- 👀 Estou interesado em aprender
+- 🌱 Atualmente estou aprendendo PYTHON
